@@ -4,6 +4,5 @@ This is a practice repo for the Git and GitHub workshop. It is not the real AUB 
 
 AUB Collab is an open-source platform where AUB students post project ideas and find teammates. The real repo link will be shared later.
 
-How to contribute here: pick an issue, fork this repo, make a branch, open a pull request. Nobody pushes to main.
+How to contribute here: pick an issue (issue #2), fork this repo, make a branch, open a pull request. Nobody pushes to main.
 
-Start with issue #1.
